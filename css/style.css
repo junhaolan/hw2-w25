@@ -50,8 +50,7 @@ div {
     margin-left: 50px;
     border-left: solid 5px;
     border-bottom: solid 2px;
-    border-right: none;
-    border-top: none;
+    
 }
 
 .blue {
@@ -60,8 +59,7 @@ div {
     margin-right: 50px;
     border-right: solid 5px;
     border-top: solid 2px;
-    border-bottom: none;
-    border-left: none;
+   
 
 
 }
@@ -77,8 +75,7 @@ div {
     margin-left: 50px;
     border-left: solid 5px;
     border-bottom: solid 2px;
-    border-right: none;
-    border-top: none;
+    
 
 }
 
@@ -92,8 +89,7 @@ div {
     margin-right: 50px;
     border-right: solid 5px;
     border-top: solid 2px;
-    border-bottom: none;
-    border-left: none;
+    
 }
 
 

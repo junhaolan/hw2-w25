@@ -88,10 +88,10 @@ div {
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-right: solid 5px;
-    border-top: solid 2px;
-    border-bottom: none #FFFFFF;
-    border-left: none #FFFFFF;
+    border-right: solid 5px #FFFFFF;
+    border-top: solid 2px #FFFFFF;
+    border-bottom: none;
+    border-left: none;
 }
 
 

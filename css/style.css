@@ -46,8 +46,8 @@ div {
     background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
-    border-left: solid 5px;
-    border-bottom: solid 2px;
+    border-left: solid 5px #FFFFFF;
+    border-bottom: solid 2px #FFFFFF;
     border-right: none;
     border-top: none;
 }
@@ -56,8 +56,8 @@ div {
     background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
-    border-right: solid 5px;
-    border-top: solid 2px;
+    border-right: solid 5px #FFFFFF;
+    border-top: solid 2px #FFFFFF;
     border-bottom: none;
     border-left: none;
 
@@ -73,8 +73,8 @@ div {
     background-color: #ffff00;
     text-align: right;
     margin-left: 50px;
-    border-left: solid 5px;
-    border-bottom: solid 2px;
+    border-left: solid 5px #FFFFFF;
+    border-bottom: solid 2px #FFFFFF;
     border-right: none;
     border-top: none;
 
@@ -90,8 +90,8 @@ div {
     margin-right: 50px;
     border-right: solid 5px;
     border-top: solid 2px;
-    border-bottom: none;
-    border-left: none;
+    border-bottom: none #FFFFFF;
+    border-left: none #FFFFFF;
 }
 
 

@@ -27,12 +27,12 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    border: dashed 10px white;
+    border: dashed 10px #FFFFFF;
 }
 
 div {
     padding: 20px;
-    border: solid 3px white;
+    border: solid 3px #FFFFFF;
     min-height: 125px;
 }
 
@@ -96,7 +96,7 @@ div {
 
 
 footer {
-    border: 5px solid white;
+    border: 5px solid #FFFFFF;
     background: linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
 }
 
